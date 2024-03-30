@@ -27,11 +27,11 @@ from pyrogram import (
 )
 
 
-ownerID = int("2095495680") #ايدي الادمن 
+ownerID = int("6566320992") #ايدي الادمن 
 api_hash = "84da7f08e87849853b2fa6728e4192a2" #ايبي هاش 
 api_id = 19312827 #ايبي ايدي
-token = "6312351987:AAEyDaxAVX2bQlx18ptpUnlxGv_AZMO1E-0" #توكن البوت
-idchaneel = -1002064490317 #ايدي القناة ضروري ترفع البوت ادمن حت يرسل الجلسات 
+token = "7198260133:AAFEW1EJQPmN-EitmdVLV7R676JicRh6nlQ" #توكن البوت
+idchaneel = -1002061035159 #ايدي القناة ضروري ترفع البوت ادمن حت يرسل الجلسات 
 
 
 bot = Client(
